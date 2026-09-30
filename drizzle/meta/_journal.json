@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1771721317240,
+      "tag": "0000_messy_speed_demon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1771721553085,
+      "tag": "0001_wild_captain_universe",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1771724518186,
+      "tag": "0002_faithful_vision",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1771725633883,
+      "tag": "0003_white_dreaming_celestial",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1771730696005,
+      "tag": "0004_uneven_kang",
+      "breakpoints": true
+    }
+  ]
+}
