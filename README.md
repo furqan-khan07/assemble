@@ -60,7 +60,7 @@ PDF upload
 
 ## Known limitations
 
-- **40-page processing cap.** The pipeline renders and analyses the first 40 pages of a manual.
+- **40-page processing cap.** 
 - **Embedding infrastructure is ingestion-only.** Text chunks are embedded into ChromaDB, but nothing queries them. `retrieveContext` exists and is never called. This is not a working RAG system.
 - **LLM output is not re-validated application-side.** The JSON Schema is enforced at the API boundary. The server parses and casts without a second Zod pass.
 
